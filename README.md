@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-![0xc3u's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xc3u&theme=one_dark_pro &show_icons=true)
-
 <!--
 **0xc3u/0xc3u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
